@@ -11,3 +11,6 @@ added by tiechui
 
 fixed bug 111111
 added by tiechui111111
+
+fixed bug jay
+added by jay
